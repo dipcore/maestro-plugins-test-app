@@ -1,7 +1,14 @@
 {
   "expo": {
-    "name": "maestro-plugins-test-app",
-    "slug": "maestro-plugins-test-app",
-    "version": "1.0.0"
+    "name": "Maestro Plugins Example App",
+    "slug": "maestro-plugins-example-app",
+    "version": "1.0.0",
+    "scheme": "exp",
+    "ios": {
+      "bundleIdentifier": "com.example.dummy"
+    },
+    "android": {
+      "package": "com.example.dummy"
+    }
   }
 }

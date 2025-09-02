@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "maestropluginstestapp.app"
-               BlueprintName = "maestropluginstestapp"
-               ReferencedContainer = "container:maestropluginstestapp.xcodeproj">
+               BuildableName = "MaestroPluginsExampleApp.app"
+               BlueprintName = "MaestroPluginsExampleApp"
+               ReferencedContainer = "container:MaestroPluginsExampleApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "maestropluginstestappTests.xctest"
-               BlueprintName = "maestropluginstestappTests"
-               ReferencedContainer = "container:maestropluginstestapp.xcodeproj">
+               BuildableName = "MaestroPluginsExampleAppTests.xctest"
+               BlueprintName = "MaestroPluginsExampleAppTests"
+               ReferencedContainer = "container:MaestroPluginsExampleApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "maestropluginstestapp.app"
-            BlueprintName = "maestropluginstestapp"
-            ReferencedContainer = "container:maestropluginstestapp.xcodeproj">
+            BuildableName = "MaestroPluginsExampleApp.app"
+            BlueprintName = "MaestroPluginsExampleApp"
+            ReferencedContainer = "container:MaestroPluginsExampleApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "maestropluginstestapp.app"
-            BlueprintName = "maestropluginstestapp"
-            ReferencedContainer = "container:maestropluginstestapp.xcodeproj">
+            BuildableName = "MaestroPluginsExampleApp.app"
+            BlueprintName = "MaestroPluginsExampleApp"
+            ReferencedContainer = "container:MaestroPluginsExampleApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

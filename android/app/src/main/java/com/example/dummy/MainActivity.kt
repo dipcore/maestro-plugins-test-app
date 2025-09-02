@@ -1,4 +1,4 @@
-package com.maestropluginstestapp
+package com.example.dummy
 
 import android.os.Build
 import android.os.Bundle
